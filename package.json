@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Node Js implementation of express checkout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "howard.mnengwa@cellulant.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
